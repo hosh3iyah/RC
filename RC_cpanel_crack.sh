@@ -19,4 +19,4 @@ sed -i '/127.0.0.1 api.resellercenter.ir/d' /etc/hosts > /dev/null 2>&1
 sed -i '/127.0.0.1 cpanel.resellercenter.ir/d' /etc/hosts > /dev/null 2>&1
 sed -i '/127.0.0.1 resellercenter.ir/d' /etc/hosts > /dev/null 2>&1
 sed -i '/127.0.0.1 *.resellercenter.ir/d' /etc/hosts > /dev/null 2>&1
-echo "SYSTEM LICENSE FUCKED DONE! & POWER BY @HO3HSIYAH"
+echo "SYSTEM LICENSE FUCKED crack DONE! & POWER BY @HO3HSIYAH"
