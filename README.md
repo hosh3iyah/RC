@@ -7,5 +7,5 @@ bash <(curl -s https://raw.githubusercontent.com/hosh3iyah/RC/main/RC_cpanel_cra
 #it broke down
 
 New method 
-
+see : 
 https://github.com/hosh3iyah/cPanel-License-unlimited
